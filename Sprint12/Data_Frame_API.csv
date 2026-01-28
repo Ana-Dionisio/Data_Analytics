@@ -1,0 +1,101 @@
+,Edifici,Latitud,Codi_Districte,Concepte,X_ETRS89,Nom_Districte,Numero_Via,Nom_Barri,Valor,Estat,Y_ETRS89,Codi_Barri,_id,Nom_Via,id,Longitud
+0,Cases Consistorials,41.3819,1,Any_Auditoria,431230.34,Ciutat Vella,1,el Gòtic,2015,Edifici Amic de la Bici,4581482.742,2,1,Carrer dels gegants,1,2.1775
+1,Seu de Districte Gràcia,41.4,6,Any_Auditoria,429602.19899999996,Gràcia,2,Vila de Gràcia,2015,Edifici Amic de la Bici,4583505.42,31,2,Plaça de la Vila de Gràcia,2,2.1578
+2,Oficines Diagonal 240,41.4044,10,Any_Auditoria,432325.715,Sant Martí,240,el Parc i la Llacuna del Poblenou ,2015,Edifici Amic de la Bici,4583977.808,66,3,Avinguda Diagonal,3,2.1903
+3,Seu del Districte de Sants,41.3753,3,Any_Auditoria,428276.80299999996,Sants-Montjuic,104-106,Hostafrancs,2016,Edifici en procés de millora,4580780.298,15,4,Carrer de la Creu Coberta,4,2.1423
+4,Centre cívic cotxeres de Sants,41.3753,3,Any_Auditoria,427823.531,Sants-Montjuic,79,Sants,2016,Edifici en procés de millora,4580780.223,18,5,Carrer de Sants,5,2.1368
+5,Oficines d'Ecologia Urbana al carrer Torrent de l'Olla ,41.4062,6,Any_Auditoria,429172.229,Gràcia,212-220,Vila de Gràcia,2016,Edifici Amic de la Bici,4584207.268,31,6,Carrer del Torrent de l'Olla,6,2.1526
+6,Barcelona Activa - Seu Central,41.4061,10,Any_Auditoria,432495.456,Sant Martí,162,Provençals del Poblenou,2016,Edifici Amic de la Bici,4584163.213,71,7,Carrer de la LLacuna,7,2.1923
+7,Barcelona Activa - Nord,41.4369,8,Any_Auditoria,430583.16,Nou Barris,8-14,la Guineueta,2016,Edifici Amic de la Bici,4587598.351,48,8,"Parc Tecnològic, Marie Curie",8,2.169
+8,Prefectura de la Guàrdia Urbana de Barcelona,41.3721,3,Any_Auditoria,429237.15,Sants-Montjuic,3,el Poble Sec,2016,Edifici en procés de millora,4580410.569,11,9,Carrer de la Guàrdia Urbana,9,2.1538
+9,OAC d'Horta,41.4099,7,Any_Auditoria,430574.841,Horta-Guinardó,387,el Baix Guinardó,2016,Edifici en procés de millora,4584597.275,33,10,Carrer de Lepant,10,2.1693
+10,Seu del Districte de Nou Barris,41.4366,8,Any_Auditoria,430708.85799999995,Nou Barris,1,la Guineueta,2016,Edifici Amic de la Bici,4587561.798,48,11,Plaça Major de Nou Barris,11,2.1706
+11,Oficines del carrer Pi Sunyer,41.3851,1,Any_Auditoria,430933.026,Ciutat Vella,8,el Gòtic,2016,Edifici en procés de millora,4581847.802,2,12,Plaça de Carles Pi i Sunyer,12,2.1739
+12,B:SM - Oficines Corporatives,41.3782,2,Any_Auditoria,429514.73600000003,Eixample,66,Sant Antoni,2016,Edifici Amic de la Bici,4581090.553,10,13,Carrer de Calàbria,13,2.157
+13,ICUB - Born Centre Cultural,41.3856,1,Any_Auditoria,431733.12299999996,Ciutat Vella,12,"Sant Pere, Santa Caterina i la Ribera",2016,Edifici en procés de millora,4581888.7639999995,4,14,Plaça Comercial,14,2.1835
+14,ICUB - Via Sepulcral,41.3846,1,Any_Auditoria,430771.03,Ciutat Vella,,el Gòtic,2016,Edifici en procés de millora,4581788.962,2,15,Plaça de la Vila de Madrid,15,2.1719999999999997
+15,ICUB - DHUB,41.4025,10,Any_Auditoria,432121.049,Sant Martí,37,el Parc i la Llacuna del Poblenou ,2016,Edifici Amic de la Bici,4583768.198,66,16,Plaça de les Glòries Catalanes,16,2.1879
+16,ICUB - La Virreina Centre de la Imatge,41.3824,1,Any_Auditoria,430748.961,Ciutat Vella,99,el Raval,2016,Edifici Amic de la Bici,4581549.143999999,1,17,La Rambla,17,2.1717
+17,ICUB - Museu Etnològic,41.3689,3,Any_Auditoria,429415.125,Sants-Montjuic,16,el Poble Sec,2016,Edifici Amic de la Bici,4580058.863,11,18,Passeig de Santa Madrona,18,2.1559
+18,ICUB - Museu Marès,41.3841,1,Any_Auditoria,431174.037,Ciutat Vella,5,el Gòtic,2016,Edifici Amic de la Bici,4581730.969,2,19,Plaça Sant Iu,19,2.1768
+19,Seu del Districte d'Horta,41.4128,7,Any_Auditoria,430350.244,Horta-Guinardó,49,el Baix Guinardó,2016,Edifici Amic de la Bici,4584923.7639999995,33,20,Ronda del Guinardó,20,2.1666
+20,IMEB,41.375,3,Any_Auditoria,428756.054,Sants-Montjuic,5,Hostafrancs,2016,Edifici en procés de millora,4580742.21,15,21,Plaça Espanya,21,2.148
+21,La Fàbrica del Sol,41.3823,1,Any_Auditoria,432412.956,Ciutat Vella,1,la Barceloneta,2017,Edifici Amic de la Bici,4581516.23,3,22,Passeig de Salvat Papasseit,22,2.1916
+22,Espai Jove la Fontana,41.4025,6,Any_Auditoria,429171.001,Gràcia,190-192,Vila de Gràcia,2017,Edifici Amic de la Bici,4583792.01,31,23,Carrer Gran de Gràcia,23,2.1526
+23,Institut del Paisatge Urbà,41.3762,1,Any_Auditoria,431100.908,Sants-Montjuic,6,el Raval,2017,Edifici en procés de millora,4580854.12,1,24,Av. de les Drassanes,24,2.176
+24,Recursos Humans ESCAR,41.3754,1,Any_Auditoria,432153.717,Ciutat Vella,1,la Barceloneta,2017,Edifici en procés de millora,4580750.544,3,25,Carrer de l'Escar,25,2.1886
+25,Barcelona Activa - Almogavers,41.3995,10,Any_Auditoria,432555.57700000005,Sant Martí,165,el Parc i la Llacuna del Poblenou ,2017,Edifici Amic de la Bici,4583421.234,66,26,Carrer dels Almogàvers,26,2.1931
+26,Pati Llimona,41.3817,1,Any_Auditoria,431370.399,Ciutat Vella,3,el Gòtic,2017,Edifici en procés de millora,4581463.21,2,27,Carrer del Regomir,27,2.1792
+27,Recursos Humans Avinyo,41.3815,1,Any_Auditoria,431101.499,Ciutat Vella,7,el Gòtic,2017,Edifici Amic de la Bici,4581444.28,2,28,Carrer d'Avinyó,28,2.176
+28,Espai Jove Garcilaso,41.4226,9,Any_Auditoria,431972.028,Sant Andreu,103,la Sagrera,2017,Edifici en procés de millora,4585997.39,61,29,Carrer de Garcilaso,29,2.1859
+29,Edifici d'oficines Pallach,41.4369,9,Any_Auditoria,432512.196,Sant Andreu,2,Sant Andreu,2017,Edifici en procés de millora,4587578.273,60,30,Carrer Segadors,30,2.1921
+30,Seu de Districte de Sant Andreu,41.4359,9,Any_Auditoria,432388.30299999996,Sant Andreu,1,Sant Andreu,2017,Edifici en procés de millora,4587464.876,60,31,Plaça d'Orfila,31,2.1907
+31,BIMSA,41.4061,10,Any_Auditoria,432738.80799999996,Sant Martí,105,Provençals del Poblenou,2018,Edifici Amic de la Bici,4584160.711,71,32,Carrer de Bolívia,32,2.1952
+32,Seu del Districte de Les Corts,41.3856,4,Any_Auditoria,427232.776,Les Corts,18,les Corts,2018,Edifici Amic de la Bici,4581936.412,19,33,Plaça de Comas,33,2.1296
+33,Seu annexa del Districte de Ciutat Vella / OAC,41.3841,1,Any_Auditoria,430477.641,Ciutat Vella,17,el Raval,2018,Edifici en procés de millora,4581731.197,1,34,Carrer de les Ramelleres,34,2.1685
+34,Espai Bombers,41.3738,3,Any_Auditoria,429300.001,Sants - Montjuïc,30,el Poble Sec,2019,Edifici en procés de millora,4580603.937,11,35,Carrer de Lleida,35,2.1545
+35,Casa Orlandai,41.3985,5,Any_Auditoria,426834.38399999996,Sarrià - Sant Gervasi,23,Sarrià,2019,Edifici Amic de la Bici,4583375.995,23,36,Carrer de Jaume Piquet,36,2.1247
+36,Arxiu Fotogràfic,41.3868,1,Any_Auditoria,431592.573,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",2019,Edifici Amic de la Bici,4582025.767,4,37,Plaça de Pons i Clerch,37,2.1818
+37,Institut Municipal d'Hisenda,41.4011,10,Any_Auditoria,433024.25299999997,Sant Martí,202,el Poblenou,2019,Edifici Amic de la Bici,4583594.302,68,38,Carrer de Pallars,38,2.1987
+38,Edifici InnoBa - Can Jaumandreu,41.4069,10,Any_Auditoria,432472.334,Sant Martí,52,Provençals del Poblenou,2019,Edifici en procés de millora,4584250.813999999,71,39,Carrer del Perú,39,2.1919999999999997
+39,Museu de Ciències Naturals,41.4109,10,Any_Auditoria,434883.617,Sant Martí,4-5,Provençals del Poblenou,2020,Edifici Amic de la Bici,4584666.322,71,40,Plaça Leonardo da Vinci,40,2.2208
+40,Passeig de Sant Joan 75,41.3976,2,Any_Auditoria,430738.821,Eixample,75,la Dreta de l'Eixample,2020,Edifici en procés de millora,4583237.188,7,41,Pg. de Sant Joan,41,2.1714
+41,Ca l'Alier,41.4096,10,Any_Auditoria,433465.485,Sant Martí,362,Provençals del Poblenou,2020,Edifici Amic de la Bici,4584537.922,71,42,Carrer de Pere IV,42,2.2039
+42,Seu del Districte de Les Corts,41.3856,4,Bicing_(<100m),427232.776,Les Corts,18,les Corts,Sí,Edifici Amic de la Bici,4581936.412,19,353,Plaça de Comas,33,2.1296
+43,El Graner,41.3615,3,Any_Auditoria,427724.571,Sants - Montjuïc,14,la Marina del Port,2020,Edifici Amic de la Bici,4579250.402,13,43,Carrer de Jane Addams,43,2.1358
+44,La Lleialtat Santsenca,41.3729,3,Any_Auditoria,427799.75200000004,Sants-Montjuic,31,Sants,2021,Edifici Amic de la Bici,4580514.091,18,44,Carrer d'Olzinelles,44,2.1366
+45,LASPB Edifici Peracamps,41.3761,1,Any_Auditoria,430905.286,Ciutat Vella,13,el Raval,2021,Edifici Amic de la Bici,4580846.1280000005,1,45,Avinguda Drassanes,45,2.1737
+46,Institut Municipal d'Urbanisme,41.4109,10,Any_Auditoria,433317.9,Sant Martí,250,Provençals del Poblenou,2021,Edifici Amic de la Bici,4584680.8,71,46,Carrer de Bolívia,46,2.2021
+47,Centre Cívic Pere Quart,41.3792,4,Any_Auditoria,427064.61,Les Corts,6,la Maternitat i Sant Ramon,2021,Edifici en procés de millora,4581229.65,20,47,Carrer del Comandant Benítez,47,2.1277
+48,Centre cívic Cristalleries Planell,41.3874,4,Any_Auditoria,427414.27,Les Corts,38,Les Corts,2021,Edifici en procés de millora,4582133.27,20,48,Carrer del Dr. Ibáñez,48,2.1318
+49,Seu del Districte de Sarrià - Sant Gervasi,41.3991,5,Any_Auditoria,426555.78,Sarrià - Sant Gervasi,7,Sarrià,2022,Edifici en procés de millora,4583430.114,23,49,Plaça del Consell de la Vila,49,2.1213
+50,Institut Municipal de Serveis Socials,41.3971,2,Any_Auditoria,430558.06,Eixample,344,la Dreta de l'Eixample,2022,Edifici en procés de millora,4583171.78,7,50,Carrer València,50,-75937.0
+51,Institut Municipal de Mercats,41.4335,9,Any_Auditoria,432277.67,Sant Andreu,200,Sant Andreu,2022,Edifici en procés de millora,4587188.78,60,51,Carrer Gran de Sant Andreu,51,2.1896
+52,Institut Municipal de l'Habitatge i Rehabilitació,41.3833,1,Any_Auditoria,432218.44,Ciutat Vella,36,la Barceloneta,2022,Edifici en procés de millora,4581636.72,3,52,Carrer del Dr. Aiguader,52,2.1892
+53,Biblioteca Montserrat Abellò,41.3837,4,Any_Auditoria,427716.57,Les Corts,192,les Corts,2022,Edifici en procés de millora,4581697.58,19,53,Carrer dels Comtes de Bell-Lloc,53,2.1354
+54,Biblioteca Miquel Llongueras,41.3779,4,Any_Auditoria,426559.89,Les Corts,58,la Maternitat i Sant Ramon,2022,Edifici en procés de millora,4581077.12,20,54,Travessera de les Corts,54,2.1217
+55,Centre Cívic Trias i Peitx,41.3777,4,Any_Auditoria,426564.63,Les Corts,1,la Maternitat i Sant Ramon,2022,Edifici en procés de millora,4581066.3,20,55,Carrer de la Riera Blanca,55,2.1218
+56,Seu del Districte de Sant Martí,41408895.0,10,Any_Auditoria,432466.96,Sant Martí,1,el Clot,2022,Edifici Amic de la Bici,4584465.06,65,56,Plaça de Valentí Almirall,56,2.1919999999999997
+57,Seu del Districte de l'Eixample,41.3952,7,Any_Auditoria,430495.96,Eixample,314,la Dreta de l'Eixample,2022,Edifici en procés de millora,4582966.09,7,57,Carrer d'Aragó,57,2.1686
+58,Castell de Montjuïc,41.3638,3,Any_Auditoria,430342.29,Sants - Montjuïc,66,Parc de Montjuïc,2022,Edifici Amic de la Bici,4579482.34,PM,58,Carretera de Montjuïc,58,2.1671
+59,Seu de l'Agència de Salut Pública a Lesseps,41.405926,6,Any_Auditoria,428993.15,Gràcia,1,Vila de Gràcia,2023,Edifici Amic de la Bici,4584167.95,31,59,Plaça de Lesseps,59,2.150461
+60,Seu del Districte de Ciutat Vella,41408896.0,1,Any_Auditoria,430551.88,Ciutat Vella,3,el Raval,2023,Edifici en procés de millora,4581703.87,1,60,Plaça Bonsuccés,60,2.1919999999999997
+61,Barcelona Activa - Ca n'Andalet,41.3952,7,Any_Auditoria,429290.53,Horta-Guinardó,11,el Carmel,2023,Edifici Amic de la Bici,4586523.59,34,61,Passatge Andalet,61,2.1686
+62,Barcelona Activa - El Convent,41.3638,1,Any_Auditoria,431592.573,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",2019,Edifici Amic de la Bici,4582025.767,4,62,Plaça de Pons i Clerch,62,2.1671
+63,ICUB - Museu Etnològic - Seu Montcada,41.405926,1,Any_Auditoria,431514.2704,Ciutat Vella,12,"Sant Pere, Santa Caterina i la Ribera",2024,Edifici Amic de la Bici,4581822.2973,4,63,Carrer de Montcada,63,2.150461
+64,Fabra i Coats Fàbrica de creació i Centre d'Art Contemporani,41.556557,9,Any_Auditoria,432463.16,Sant Andreu,20,Sant Andreu,2024,Edifici en procés de millora,4587233.34,60,64,Carrer de Sant Adrià,64,2.1063
+65,Cases Consistorials,41.3819,1,Data_Distintiu,431230.34,Ciutat Vella,1,el Gòtic,Octubre 2016,Edifici Amic de la Bici,4581482.742,2,65,Carrer dels gegants,1,2.1775
+66,Seu de Districte Gràcia,41.4,6,Data_Distintiu,429602.19899999996,Gràcia,2,Vila de Gràcia,Març 2022,Edifici Amic de la Bici,4583505.42,31,66,Plaça de la Vila de Gràcia,2,2.1578
+67,Oficines Diagonal 240,41.4044,10,Data_Distintiu,432325.715,Sant Martí,240,el Parc i la Llacuna del Poblenou ,Gener 2019,Edifici Amic de la Bici,4583977.808,66,67,Avinguda Diagonal,3,2.1903
+68,Seu del Districte de Sants,41.3753,3,Data_Distintiu,428276.80299999996,Sants-Montjuic,104-106,Hostafrancs,,Edifici en procés de millora,4580780.298,15,68,Carrer de la Creu Coberta,4,2.1423
+69,Centre cívic cotxeres de Sants,41.3753,3,Data_Distintiu,427823.531,Sants-Montjuic,79,Sants,,Edifici en procés de millora,4580780.223,18,69,Carrer de Sants,5,2.1368
+70,Oficines d'Ecologia Urbana al carrer Torrent de l'Olla ,41.4062,6,Data_Distintiu,429172.229,Gràcia,212-220,Vila de Gràcia,Desembre 2018,Edifici Amic de la Bici,4584207.268,31,70,Carrer del Torrent de l'Olla,6,2.1526
+71,Barcelona Activa - Seu Central,41.4061,10,Data_Distintiu,432495.456,Sant Martí,162,Provençals del Poblenou,Desembre 2023,Edifici Amic de la Bici,4584163.213,71,71,Carrer de la LLacuna,7,2.1923
+72,Barcelona Activa - Nord,41.4369,8,Data_Distintiu,430583.16,Nou Barris,8-14,la Guineueta,Desembre 2023,Edifici Amic de la Bici,4587598.351,48,72,"Parc Tecnològic, Marie Curie",8,2.169
+73,Prefectura de la Guàrdia Urbana de Barcelona,41.3721,3,Data_Distintiu,429237.15,Sants-Montjuic,3,el Poble Sec,,Edifici en procés de millora,4580410.569,11,73,Carrer de la Guàrdia Urbana,9,2.1538
+74,OAC d'Horta,41.4099,7,Data_Distintiu,430574.841,Horta-Guinardó,387,el Baix Guinardó,,Edifici en procés de millora,4584597.275,33,74,Carrer de Lepant,10,2.1693
+75,Seu del Districte de Nou Barris,41.4366,8,Data_Distintiu,430708.85799999995,Nou Barris,1,la Guineueta,Desembre 2018,Edifici Amic de la Bici,4587561.798,48,75,Plaça Major de Nou Barris,11,2.1706
+76,Oficines del carrer Pi Sunyer,41.3851,1,Data_Distintiu,430933.026,Ciutat Vella,8,el Gòtic,,Edifici en procés de millora,4581847.802,2,76,Plaça de Carles Pi i Sunyer,12,2.1739
+77,B:SM - Oficines Corporatives,41.3782,2,Data_Distintiu,429514.73600000003,Eixample,66,Sant Antoni,Març 2022,Edifici Amic de la Bici,4581090.553,10,77,Carrer de Calàbria,13,2.157
+78,ICUB - Born Centre Cultural,41.3856,1,Data_Distintiu,431733.12299999996,Ciutat Vella,12,"Sant Pere, Santa Caterina i la Ribera",,Edifici en procés de millora,4581888.7639999995,4,78,Plaça Comercial,14,2.1835
+79,ICUB - Via Sepulcral,41.3846,1,Data_Distintiu,430771.03,Ciutat Vella,,el Gòtic,,Edifici en procés de millora,4581788.962,2,79,Plaça de la Vila de Madrid,15,2.1719999999999997
+80,ICUB - DHUB,41.4025,10,Data_Distintiu,432121.049,Sant Martí,37,el Parc i la Llacuna del Poblenou ,Abril 2021,Edifici Amic de la Bici,4583768.198,66,80,Plaça de les Glòries Catalanes,16,2.1879
+81,ICUB - La Virreina Centre de la Imatge,41.3824,1,Data_Distintiu,430748.961,Ciutat Vella,99,el Raval,Desembre 2018,Edifici Amic de la Bici,4581549.143999999,1,81,La Rambla,17,2.1717
+82,ICUB - Museu Etnològic,41.3689,3,Data_Distintiu,429415.125,Sants-Montjuic,16,el Poble Sec,Març 2022,Edifici Amic de la Bici,4580058.863,11,82,Passeig de Santa Madrona,18,2.1559
+83,ICUB - Museu Marès,41.3841,1,Data_Distintiu,431174.037,Ciutat Vella,5,el Gòtic,Desembre 2018,Edifici Amic de la Bici,4581730.969,2,83,Plaça Sant Iu,19,2.1768
+84,Seu del Districte d'Horta,41.4128,7,Data_Distintiu,430350.244,Horta-Guinardó,49,el Baix Guinardó,Desembre 2018,Edifici Amic de la Bici,4584923.7639999995,33,84,Ronda del Guinardó,20,2.1666
+85,IMEB,41.375,3,Data_Distintiu,428756.054,Sants-Montjuic,5,Hostafrancs,,Edifici en procés de millora,4580742.21,15,85,Plaça Espanya,21,2.148
+86,La Fàbrica del Sol,41.3823,1,Data_Distintiu,432412.956,Ciutat Vella,1,la Barceloneta,Novembre 2017,Edifici Amic de la Bici,4581516.23,3,86,Passeig de Salvat Papasseit,22,2.1916
+87,Espai Jove la Fontana,41.4025,6,Data_Distintiu,429171.001,Gràcia,190-192,Vila de Gràcia,,Edifici Amic de la Bici,4583792.01,31,87,Carrer Gran de Gràcia,23,2.1526
+88,Institut del Paisatge Urbà,41.3762,1,Data_Distintiu,431100.908,Sants-Montjuic,6,el Raval,,Edifici en procés de millora,4580854.12,1,88,Av. de les Drassanes,24,2.176
+89,Recursos Humans ESCAR,41.3754,1,Data_Distintiu,432153.717,Ciutat Vella,1,la Barceloneta,,Edifici en procés de millora,4580750.544,3,89,Carrer de l'Escar,25,2.1886
+90,Barcelona Activa - Almogavers,41.3995,10,Data_Distintiu,432555.57700000005,Sant Martí,165,el Parc i la Llacuna del Poblenou ,Desembre 2023,Edifici Amic de la Bici,4583421.234,66,90,Carrer dels Almogàvers,26,2.1931
+91,Pati Llimona,41.3817,1,Data_Distintiu,431370.399,Ciutat Vella,3,el Gòtic,,Edifici en procés de millora,4581463.21,2,91,Carrer del Regomir,27,2.1792
+92,Recursos Humans Avinyo,41.3815,1,Data_Distintiu,431101.499,Ciutat Vella,7,el Gòtic,Desembre 2017,Edifici Amic de la Bici,4581444.28,2,92,Carrer d'Avinyó,28,2.176
+93,Espai Jove Garcilaso,41.4226,9,Data_Distintiu,431972.028,Sant Andreu,103,la Sagrera,,Edifici en procés de millora,4585997.39,61,93,Carrer de Garcilaso,29,2.1859
+94,Edifici d'oficines Pallach,41.4369,9,Data_Distintiu,432512.196,Sant Andreu,2,Sant Andreu,,Edifici en procés de millora,4587578.273,60,94,Carrer Segadors,30,2.1921
+95,Seu de Districte de Sant Andreu,41.4359,9,Data_Distintiu,432388.30299999996,Sant Andreu,1,Sant Andreu,,Edifici en procés de millora,4587464.876,60,95,Plaça d'Orfila,31,2.1907
+96,BIMSA,41.4061,10,Data_Distintiu,432738.80799999996,Sant Martí,105,Provençals del Poblenou,Juliol 2022,Edifici Amic de la Bici,4584160.711,71,96,Carrer de Bolívia,32,2.1952
+97,Seu del Districte de Les Corts,41.3856,4,Data_Distintiu,427232.776,Les Corts,18,les Corts,Desembre 2018,Edifici Amic de la Bici,4581936.412,19,97,Plaça de Comas,33,2.1296
+98,Seu annexa del Districte de Ciutat Vella / OAC,41.3841,1,Data_Distintiu,430477.641,Ciutat Vella,17,el Raval,,Edifici en procés de millora,4581731.197,1,98,Carrer de les Ramelleres,34,2.1685
+99,Espai Bombers,41.3738,3,Data_Distintiu,429300.001,Sants - Montjuïc,30,el Poble Sec,,Edifici en procés de millora,4580603.937,11,99,Carrer de Lleida,35,2.1545
