@@ -9,7 +9,7 @@ The project combines econometric modelling, spatial analysis, and counterfactual
 ## 📂 Repository Structure
 ── notebooks/                # Jupyter Notebook with full code │   └── Sprint13_C.ipynb ├
 ── report/                   # Final written report (PDF) ├
-── slides/                   # Presentation slides (PDF or PPTX) └
+── slides/                   # Presentation slides (PPTX) └
 ── README.md                 # Project documentation
 
 
@@ -71,7 +71,7 @@ The difference between predicted prices in both scenarios represents the estimat
 
 - **Sprint13_C.ipynb** – full code for data cleaning, modelling, correlation analysis, and counterfactual simulation  
 - **Final_Project_Report.pdf** – complete written thesis  
-- **Sprint13.pdf** – presentation slides used in the defense  
+- **Final_Project_Presentation.pdf** – presentation slides used in the defense  
 
 ---
 
