@@ -1,0 +1,16 @@
+pandas
+numpy
+geopandas
+statsmodels
+scikit-learn
+pdfkit
+jinja2
+linearmodels
+xgboost
+libpysal
+spreg
+geopy
+unidecode
+folium
+esda
+adjustText
